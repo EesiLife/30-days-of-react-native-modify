@@ -331,7 +331,7 @@ class MainView extends Component {
     //   display: !this.state.days[index].hideNav,
     //   component: this.state.days[index].component,
     // })
-      var p = 'page' +(index +1);
+      var p = 'page' + (index +1);
       navigate(p, {user: "siy"})
      // navigate(this.state.days[index].component, {user: "siy",title:this.state.days[index].title})
     //   navigate(this.state.days[index].component)
