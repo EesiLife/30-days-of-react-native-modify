@@ -3770,7 +3770,7 @@ react-native-tab-view@~0.0.78:
   dependencies:
     prop-types "^15.6.0"
 
-react-native-vector-icons@^4.3.0:
+react-native-vector-icons@^4.6.0:
   version "4.6.0"
   resolved "http://registry.npm.taobao.org/react-native-vector-icons/download/react-native-vector-icons-4.6.0.tgz#e4014311ffa6de397d914ffc31b7097a874cc8d5"
   dependencies:
